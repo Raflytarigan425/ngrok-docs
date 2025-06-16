@@ -8,38 +8,38 @@
     {
       "action": "allow",
       "cidr": "2.2.2.2/32",
-      "created_at": "2025-06-10T10:10:41Z",
+      "created_at": "2025-06-16T10:06:58Z",
       "description": "alan laptop",
-      "id": "ipr_2yJQYHeeTC2bRcESTCKClvmVuQY",
+      "id": "ipr_2yaMq9jMHnheXWUHfeSQv0MxgHA",
       "ip_policy": {
-        "id": "ipp_2yJQYCBAYQgRxo0J8cDnY9lpwdm",
-        "uri": "https://api.ngrok.com/ip_policies/ipp_2yJQYCBAYQgRxo0J8cDnY9lpwdm"
+        "id": "ipp_2yaMq6Nm09mEV8nL9ZwPhA5ajxd",
+        "uri": "https://api.ngrok.com/ip_policies/ipp_2yaMq6Nm09mEV8nL9ZwPhA5ajxd"
       },
-      "uri": "https://api.ngrok.com/ip_policy_rules/ipr_2yJQYHeeTC2bRcESTCKClvmVuQY"
-    },
-    {
-      "action": "allow",
-      "cidr": "212.3.14.0/24",
-      "created_at": "2025-06-10T10:10:41Z",
-      "description": "nyc office",
-      "id": "ipr_2yJQYGoGAhbjYn6V1LhvoX8qdiI",
-      "ip_policy": {
-        "id": "ipp_2yJQYCBAYQgRxo0J8cDnY9lpwdm",
-        "uri": "https://api.ngrok.com/ip_policies/ipp_2yJQYCBAYQgRxo0J8cDnY9lpwdm"
-      },
-      "uri": "https://api.ngrok.com/ip_policy_rules/ipr_2yJQYGoGAhbjYn6V1LhvoX8qdiI"
+      "uri": "https://api.ngrok.com/ip_policy_rules/ipr_2yaMq9jMHnheXWUHfeSQv0MxgHA"
     },
     {
       "action": "allow",
       "cidr": "132.2.19.0/24",
-      "created_at": "2025-06-10T10:10:41Z",
+      "created_at": "2025-06-16T10:06:58Z",
       "description": "sf office",
-      "id": "ipr_2yJQYCKb3CxU3MaicQLPgL5Jk80",
+      "id": "ipr_2yaMq64cOnyvm22N4YIN2UoXQpD",
       "ip_policy": {
-        "id": "ipp_2yJQYCBAYQgRxo0J8cDnY9lpwdm",
-        "uri": "https://api.ngrok.com/ip_policies/ipp_2yJQYCBAYQgRxo0J8cDnY9lpwdm"
+        "id": "ipp_2yaMq6Nm09mEV8nL9ZwPhA5ajxd",
+        "uri": "https://api.ngrok.com/ip_policies/ipp_2yaMq6Nm09mEV8nL9ZwPhA5ajxd"
       },
-      "uri": "https://api.ngrok.com/ip_policy_rules/ipr_2yJQYCKb3CxU3MaicQLPgL5Jk80"
+      "uri": "https://api.ngrok.com/ip_policy_rules/ipr_2yaMq64cOnyvm22N4YIN2UoXQpD"
+    },
+    {
+      "action": "allow",
+      "cidr": "212.3.14.0/24",
+      "created_at": "2025-06-16T10:06:58Z",
+      "description": "nyc office",
+      "id": "ipr_2yaMq4fhgBvMh4gNVsJ6xO6LT0I",
+      "ip_policy": {
+        "id": "ipp_2yaMq6Nm09mEV8nL9ZwPhA5ajxd",
+        "uri": "https://api.ngrok.com/ip_policies/ipp_2yaMq6Nm09mEV8nL9ZwPhA5ajxd"
+      },
+      "uri": "https://api.ngrok.com/ip_policy_rules/ipr_2yaMq4fhgBvMh4gNVsJ6xO6LT0I"
     }
   ],
   "next_page_uri": null,
